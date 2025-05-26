@@ -1,16 +1,3 @@
-# task_second_statemanagemet
+#flutter counter app# 📌Description A simple counter app that allows users to increase or decrease a counter value. the counter value is persisted using SharedPreferences, and remains saved even after the app is restarted.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Features ✅ Increase & Decrease Counter using buttons ✅ State Management with setState ✅ Persistent Data Storage using SharedPreferences Flutter To-Do List App 📌 Description A simple to-do list app built with Flutter that allows users to add tasks, display tasks in a ListView, and persist data using SharedPreferences so that tasks remain saved even after the app restarts ✨ Features ✅ Add tasks dynamically ✅ Display tasks using ListView.builder ✅ Persist data with SharedPreferences
