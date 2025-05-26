@@ -10,3 +10,7 @@ simple to-do list app built with Flutter that allows users to add tasks, display
 ✅ Add tasks dynamically 
 ✅ Display tasks using ListView.builder
 ✅ Persist data with SharedPreferences
+
+![counter](https://github.com/user-attachments/assets/c69f0da9-42bf-46be-a287-6bd4d97a7f81)
+![todo1](https://github.com/user-attachments/assets/8421daac-b17a-491e-9059-7fd864f321ea)
+![add task](https://github.com/user-attachments/assets/b3b72c17-c3fe-41ce-9bf1-5f6a8cfdd374)
